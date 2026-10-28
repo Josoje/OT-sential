@@ -1,0 +1,2 @@
+timestamp,event_type,severity,source_asset,destination_asset,description,protocol
+2026-10-28T09:30:00Z,auth_failure,Middel,ws-fin-04,,Gentagne fejlede loginforsøg,

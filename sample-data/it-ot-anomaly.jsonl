@@ -1,0 +1,1 @@
+{"timestamp":"2026-10-28T09:15:00Z","event_type":"network_connection","severity":"Høj","source_asset":"ws-eng-01","destination_asset":"plc-line-03","protocol":"Modbus/TCP","description":"Uventet IT/OT-forbindelse uden for godkendt policy"}

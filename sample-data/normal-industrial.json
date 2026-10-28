@@ -1,0 +1,1 @@
+{"events":[{"timestamp":"2026-10-28T09:00:00Z","event_type":"network_connection","severity":"Lav","source_asset":"ws-ops-02","destination_asset":"scada-hmi-01","protocol":"OPC-UA","description":"Godkendt HMI-trafik inden for baseline"}]}
